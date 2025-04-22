@@ -42,15 +42,9 @@ Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featureba
 
 🆕 **LATEST UPDATE:** 22/04/2025 
 
-## 📊 **Star History**
+## Star History
 
-<a href="https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
- </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools,vchaitanyachowdari/system-prompts-and-models.git&type=Date)](https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&vchaitanyachowdari/system-prompts-and-models.git&Date)
 
 ## ❤️ Support the Project
 
